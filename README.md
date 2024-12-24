@@ -107,36 +107,6 @@ BlogSpace is an Android application built with Kotlin that allows users to creat
   - Gson
   - OkHttp Logging Interceptor
 
-## Project Structure
-
-BlogSpace/
-├── app/
-│   ├── java/
-│   │   └── com.example.blogspace/
-│   │       ├── activities/
-│   │       │   ├── AddArticleActivity.kt
-│   │       │   ├── ArticleDetailActivity.kt
-│   │       │   ├── LoginActivity.kt
-│   │       │   ├── MainActivity.kt
-│   │       │   └── SignUpActivity.kt
-│   │       ├── adapters/
-│   │       │   └── ArticleAdapter.kt
-│   │       ├── models/
-│   │       │   └── Article.kt
-│   │       └── network/
-│   │           └── RetrofitClient.kt
-│   └── res/
-│       ├── layout/
-│       │   ├── activity_add_article.xml
-│       │   ├── activity_article_detail.xml
-│       │   ├── activity_login.xml
-│       │   ├── activity_main.xml
-│       │   └── activity_sign_up.xml
-│       │   └── item_article.xml
-│       ├── drawable/
-│       └── ...
-└── ...
-
 ## Setup
 
 1.  **Firebase:**
