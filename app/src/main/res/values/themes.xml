@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.BlogSpace" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/lightPrimary</item>
+        <item name="colorPrimaryVariant">@color/lightPrimaryVariant</item>
+        <item name="colorSecondary">@color/lightSecondary</item>
+        <item name="colorSecondaryVariant">@color/lightSecondaryVariant</item>
+        <item name="android:colorBackground">@color/lightBackground</item>
+        <item name="colorSurface">@color/lightSurface</item>
+        <item name="colorError">@color/lightError</item>
+        <item name="colorOnPrimary">@color/lightOnPrimary</item>
+        <item name="colorOnSecondary">@color/lightOnSecondary</item>
+        <item name="colorOnBackground">@color/lightOnBackground</item>
+        <item name="colorOnSurface">@color/lightOnSurface</item>
+        <item name="colorOnError">@color/lightOnError</item>
+
+        <item name="textAppearanceHeadline6">@style/TextAppearance.BlogSpace.Headline6</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.BlogSpace.Body1</item>
+        <item name="textAppearanceButton">@style/TextAppearance.BlogSpace.Button</item>
+    </style>
+</resources>

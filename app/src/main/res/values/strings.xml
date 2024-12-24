@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BlogSpace</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_log_in">Already have an account? Log in</string>
+    <string name="post_article">Post Article</string>
+    <string name="article_content">Article Content</string>
+    <string name="article_title">Article Title</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765557333818",
+    "project_id": "blogspace-40c2f",
+    "storage_bucket": "blogspace-40c2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765557333818:android:cf98a6d7ce7e714978ba03",
+        "android_client_info": {
+          "package_name": "com.example.blogspace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1xRgIZNXYo4FVuq6dB5j2BKSqil6CRCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
